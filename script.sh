@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Descripción del script
-echo "Este script configura un entorno de Mosquitto MQTT utilizando Docker Compose. Creado por Matheiu Sánchez"
+echo "Este script configura un entorno de Mosquitto MQTT utilizando Docker Compose. Creado por clixx02"
 echo "Borra cualquier contenedor existente en el directorio /prj (este valor puede ser cambiado),crea la estructura de archivos necesaria"
 echo "y solicita al usuario que ingrese una contraseña para el usuario 'admin' (este valor puede ser cambiado) en Mosquitto."
 echo "Finalmente, inicia los contenedores Mosquitto y muestra el estado del servicio."
